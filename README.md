@@ -1,5 +1,6 @@
 # hi, there! i'm Jeanne. 🍥🍡
 a 20y/o junior computer science student 💻
+interested in web dev, UI/UX
 
 ## 🧰 Tech Stack
 
